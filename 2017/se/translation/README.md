@@ -1,0 +1,1 @@
+This folder contains files suporting the Swedish translation efforts

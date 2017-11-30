@@ -1,0 +1,116 @@
+Ordlista för att vara konsekvent med översättningen
+
+access control	åtkomstkontroll
+accurate		säker
+affected		berörda
+allow			möjliggör
+almost			nästintill
+application		applikation
+arbitrary		godtycklig
+attacker		attackerare
+available		tillgänglig
+browser			webbläsare
+complete		total / fullgod
+consider		överväg
+construction	uppbyggnaden
+defense			försvar
+developer		utvecklare
+discover		upptäcka
+effort			ansträngning (insats / satning)
+ensure			säkertställa
+etc.			osv. (etc. ??)
+execute			exekvera
+exploited		utnyttjad
+extensible		utbyggbart
+facilitate		åsamka
+find out		avgöra
+flaw			brist
+generate		skapa
+header			huvud
+hijack			överta
+hostile			illasinnad
+if				ifall
+impersonate		härma ??
+input			indata
+interface		gränssnitt
+interpreter		tolk (interpreterare?)
+invoke			anropa
+issue			problem??
+legacy code		gammal kod (?)
+mail			e-post
+malicious		skadlig
+management		hantering
+more dangerous	ännu farligare
+occur			uppstår
+output			resultat (?)
+parser			tolkare
+particularly 	framförallt
+prevent			motverka
+privileged		priviligerade 
+processes		hanterar
+provide			tillhandahålla
+properly		korrekt
+redirect		vidarebefodra
+require			kräver
+requirement		krav
+result			resultera
+resource		resurs
+sensitive data	skyddad data
+similarly		liknande
+site			hemsida
+sometimes		i vissa fall
+special character	specialtecekn
+successful		lyckad (genomförbar?)
+such as			t.ex.
+target			mål
+targeted		måltavlor
+token			biljett
+treated			hanteras
+under the hood	under huven (?)
+unique			unik (/ olik?)
+untrusted		opålitlig
+user			användare
+user supplied	användargenererad (?)
+victim			offer
+vulnerable 		sårbar
+web				webb
+web browser		webbläsare
+
+access control	rättighetskontroll eller behörighetskontroll?
+privileges		rättighet eller behörighet?
+
+---
+
+Threat Agents		Hotagent
+Attack Vectors		Attackvektorer
+Security Weakness	Säkerhetssvagheter
+Technical Impacts	Teknikpåverkan
+Business Impacts	Affärspåverkan
+
+Application Specific	Applikations-specifik
+Exploitability			Exploaterbarhet
+Prevalence				Förekomst
+Detectability			Upptäckbarhet
+Impact					Påverkan / Inverkan / Effekt
+Application / Business Specific		Applikation- / Affärsspecifik
+
+EASY		LÄTT
+AVERAGE		MEDEL
+DIFFICULT	SVÅRT
+
+COMMON		VANLIG
+WIDESPREAD	VÄLSPRIDD
+VERY WIDESPREAD	VÄLDIGT VÄLSPRIDD
+UNCOMMIN	OVANLIG
+
+AVERAGE		MEDEL
+
+SEVERE		ALLVARLIG
+MODERATE	BEGRÄNSAD (? / MÅTTLIG)
+
+Am I Vulnerable to			Är jag sårbar mot
+How Do I Prevent			Hur motverkar jag
+Example Attack Scenarios	Exempel
+References					Referenser
+External					Externa
+

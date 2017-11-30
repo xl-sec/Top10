@@ -1,0 +1,24 @@
+Svåröversatta termer
+
+escaping
+När man escapar något ... ?
+
+Cross-Site Scripting
+
+Cross-Site Request Forgery
+
+deface
+
+fuzzer
+
+accountability
+
+denial of access
+
+prepared statements
+
+credential
+
+timeout
+
+single-sign on

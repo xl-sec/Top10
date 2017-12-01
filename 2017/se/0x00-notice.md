@@ -4,7 +4,7 @@
 
 ### Request for Comments
 
-This is the text version of the OWASP Top 10, and although it is useful for translators and those interested in a text version, it's not the official release, which is the PowerPoint / PDF version. 
+This is the text version of the OWASP Topp 10, and although it is useful for translators and those interested in a text version, it's not the official release, which is the PowerPoint / PDF version. 
 
 At this stage, we are asking for
 

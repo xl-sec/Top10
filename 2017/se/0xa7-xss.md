@@ -3,9 +3,9 @@
 | Threat agents/Attack vectors | Security Weakness           | Impacts               |
 | -- | -- | -- |
 | Access Lvl : Exploitability 3 | Prevalence 3 : Detectability 3 | Technical 2 : Business |
-| Automated tools can detect and exploit all three forms of XSS, and there are freely available exploitation frameworks. | XSS is the second most prevalent issue in the OWASP Top 10, and is found in around two thirds of all applications. Automated tools can find some XSS problems automatically, particularly in mature technologies such as PHP, J2EE / JSP, and ASP.NET. | The impact of XSS is moderate for reflected and DOM XSS, and severe for stored XSS, with remote code execution on the victim's browser, such as stealing credentials, sessions, or delivering malware to the victim. |
+| Automated tools can detect and exploit all three forms of XSS, and there are freely available exploitation frameworks. | XSS is the second most prevalent issue in the OWASP Topp 10, and is found in around two thirds of all applications. Automated tools can find some XSS problems automatically, particularly in mature technologies such as PHP, J2EE / JSP, and ASP.NET. | The impact of XSS is moderate for reflected and DOM XSS, and severe for stored XSS, with remote code execution on the victim's browser, such as stealing credentials, sessions, or delivering malware to the victim. |
 
-## Is the Application Vulnerable?
+## Är applikationen sårbar?
 
 There are three forms of XSS, usually targeting users' browsers:
 
@@ -15,7 +15,7 @@ There are three forms of XSS, usually targeting users' browsers:
 
 Typical XSS attacks include session stealing, account takeover, MFA bypass, DOM node replacement or defacement (such as trojan login panels), attacks against the user's browser such as malicious software downloads, key logging, and other client-side attacks.
 
-## How To Prevent
+## Åtgärder
 
 Preventing XSS requires separation of untrusted data from active browser content. This can be achieved by:
 
@@ -37,7 +37,7 @@ This attack causes the victim’s session ID to be sent to the attacker’s webs
 
 **Note**: Attackers can use XSS to defeat any automated Cross-Site Request Forgery (CSRF) defense the application might employ.
 
-## References
+## Referenser
 
 ### OWASP
 
@@ -52,7 +52,7 @@ This attack causes the victim’s session ID to be sent to the attacker’s webs
 * [OWASP Cheat Sheet: XSS Filter Evasion](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
 * [OWASP Java Encoder Project](https://www.owasp.org/index.php/OWASP_Java_Encoder_Project)
 
-### External
+### Externa
 
 * [CWE-79: Improper neutralization of user supplied input](https://cwe.mitre.org/data/definitions/79.html)
 * [PortSwigger: Client-side template injection](https://portswigger.net/kb/issues/00200308_clientsidetemplateinjection)

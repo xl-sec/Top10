@@ -48,11 +48,11 @@ We'd like to thank the many organizations that contributed their vulnerability d
 * Veracode
 * Web.com
 w
-For the first time, all the data contributed to a Top 10 release, and the full list of contributors is [publicly available](https://github.com/OWASP/Top10/tree/master/2017/datacall/submissions).
+For the first time, all the data contributed to a Topp 10 release, and the full list of contributors is [publicly available](https://github.com/OWASP/Top10/tree/master/2017/datacall/submissions).
 
 ## Acknowledgements to Individual Contributors
 
-We’d like to thank the individual contributors who spent many hours collectively contributing to the Top 10 in GitHub.
+We’d like to thank the individual contributors who spent many hours collectively contributing to the Topp 10 in GitHub.
 
 * ak47gen
 * alonergan

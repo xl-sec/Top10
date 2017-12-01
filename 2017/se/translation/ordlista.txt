@@ -108,8 +108,10 @@ AVERAGE		MEDEL
 SEVERE		ALLVARLIG
 MODERATE	BEGRÄNSAD (? / MÅTTLIG)
 
+Is the Application Vulnerable?  Är applikationen sårbar?
 Am I Vulnerable to			Är jag sårbar mot
 How Do I Prevent			Hur motverkar jag
+How To Prevent              Åtgärder / Skydd / Hur motverkar jag ??
 Example Attack Scenarios	Exempel
 References					Referenser
 External					Externa

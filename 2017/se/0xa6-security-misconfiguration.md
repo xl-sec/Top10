@@ -5,7 +5,7 @@
 | Access Lvl : Exploitability 3 | Prevalence 3 : Detectability 3 | Technical 2 : Business |
 | Attackers will often attempt to exploit unpatched flaws or access default accounts, unused pages, unprotected files and directories, etc to gain unauthorized access or knowledge of the system. | Security misconfiguration can happen at any level of an application stack, including the network services, platform, web server, application server, database, frameworks, custom code, and pre-installed virtual machines, containers, or storage. Automated scanners are useful for detecting misconfigurations, use of default accounts or configurations, unnecessary services, legacy options, etc. | Such flaws frequently give attackers unauthorized access to some system data or functionality. Occasionally, such flaws result in a complete system compromise. The business impact depends on the protection needs of the application and data. |
 
-## Is the Application Vulnerable?
+## Är applikationen sårbar?
 
 The application might be vulnerable if the application is:
 
@@ -20,7 +20,7 @@ The application might be vulnerable if the application is:
 
 Without a concerted, repeatable application security configuration process, systems are at a higher risk.
 
-## How To Prevent
+## Åtgärder
 
 Secure installation processes should be implemented, including:
 
@@ -31,7 +31,7 @@ Secure installation processes should be implemented, including:
 * Sending security directives to clients, e.g. [Security Headers](https://www.owasp.org/index.php/OWASP_Secure_Headers_Project).
 * An automated process to verify the effectiveness of the configurations and settings in all environments.
 
-## Example Attack Scenarios
+## Exempel
 
 **Scenario #1**: The application server comes with sample applications that are not removed from the production server. These sample applications have known security flaws attackers use to compromise the server. If one of these applications is the admin console, and default accounts weren't changed the attacker logs in with default passwords and takes over.
 
@@ -41,7 +41,7 @@ Secure installation processes should be implemented, including:
 
 **Scenario #4**: A cloud service provider has default sharing permissions open to the Internet by other CSP users. This allows sensitive data stored within cloud storage to be accessed.
 
-## References
+## Referenser
 
 ### OWASP
 
@@ -51,7 +51,7 @@ Secure installation processes should be implemented, including:
 
 For additional requirements in this area, see the Application Security Verification Standard [V19 Configuration](https://www.owasp.org/index.php/ASVS_V19_Configuration).
 
-### External
+### Externa
 
 * [NIST Guide to General Server Hardening](https://csrc.nist.gov/publications/detail/sp/800-123/final)
 * [CWE-2: Environmental Security Flaws](https://cwe.mitre.org/data/definitions/2.html)

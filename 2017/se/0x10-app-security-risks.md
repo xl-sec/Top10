@@ -10,7 +10,7 @@ Sometimes these paths are trivial to find and exploit, and sometimes they are ex
 
 ## What's My Risk
 
-The [OWASP Top 10](https://www.owasp.org/index.php/Top10) focuses on identifying the most serious web application security risks for a broad array of organizations. For each of these risks, we provide generic information about likelihood and technical impact using the following simple ratings scheme, which is based on the OWASP Risk Rating Methodology.  
+The [OWASP Topp 10](https://www.owasp.org/index.php/Top10) focuses on identifying the most serious web application security risks for a broad array of organizations. For each of these risks, we provide generic information about likelihood and technical impact using the following simple ratings scheme, which is based on the OWASP Risk Rating Methodology.  
 
 | Threat Agents | Exploitability | Weakness Prevalence | Weakness Detectability | Technical Impacts | Business Impacts |
 | -- | -- | -- | -- | -- | -- |
@@ -22,16 +22,16 @@ In this edition, we have updated the risk rating system to assist in calculating
 
 Each organization is unique, and so are the threat actors for that organization, their goals, and the impact of any breach. If a public interest organization uses a content management system (CMS) for public information and a health system uses that same exact CMS for sensitive health records, the threat actors and business impacts can be very different for the same software. It is critical to understand the risk to your organization based on applicable threat agents and business impacts.
 
-Where possible, the names of the risks in the Top 10 are aligned with [Common Weakness Enumeration](https://cwe.mitre.org/) (CWE) weaknesses to promote generally accepted naming conventions and to reduce confusion.
+Where possible, the names of the risks in the Topp 10 are aligned with [Common Weakness Enumeration](https://cwe.mitre.org/) (CWE) weaknesses to promote generally accepted naming conventions and to reduce confusion.
 
-## References
+## Referenser
 
 ### OWASP
 
 * [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology)
 * [Article on Threat/Risk Modeling](https://www.owasp.org/index.php/Threat_Risk_Modeling)
 
-### External
+### Externa
 
 * [ISO 31000: Risk Management Std](https://www.iso.org/iso-31000-risk-management.html)
 * [ISO 27001: ISMS](https://www.iso.org/isoiec-27001-information-security.html)

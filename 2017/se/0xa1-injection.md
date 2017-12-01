@@ -6,7 +6,7 @@
 | Almost any source of data can be an injection vector, environment variables, parameters, external and internal web services, and all types of users. [Injection flaws](https://www.owasp.org/index.php/Injection_Flaws) occur when an attacker can send hostile data to an interpreter. | Injection flaws are very prevalent, particularly in legacy code. Injection vulnerabilities are often found in SQL, LDAP, XPath, or NoSQL queries, OS commands, XML parsers, SMTP headers, expression languages, and ORM queries. Injection flaws are easy to discover when examining code. Scanners and fuzzers can help attackers find injection flaws. |Injection can result in data loss, corruption, or disclosure to unauthorized parties, loss of accountability, or denial of access. Injection can sometimes lead to complete host takeover. The business impact depends on the needs of the application and data.|
 
 
-## Is the Application Vulnerable?
+## Är applikationen sårbar?
 
 An application is vulnerable to attack when:
 
@@ -16,7 +16,7 @@ An application is vulnerable to attack when:
 * Hostile data is directly used or concatenated, such that the SQL or command contains both structure and hostile data in dynamic queries, commands, or stored procedures.
 * Some of the more common injections are SQL, NoSQL, OS command, Object Relational Mapping (ORM), LDAP, and Expression Language (EL) or Object Graph Navigation Library (OGNL) injection. The concept is identical among all interpreters. Source code review is the best method of detecting if applications are vulnerable to injections, closely followed by thorough automated testing of all parameters, headers, URL, cookies, JSON, SOAP, and XML data inputs. Organizations can include static source ([SAST](https://www.owasp.org/index.php/Source_Code_Analysis_Tools)) and dynamic application test ([DAST](https://www.owasp.org/index.php/Category:Vulnerability_Scanning_Tools)) tools into the CI/CD pipeline to identify newly introduced injection flaws prior to production deployment.
 
-## How To Prevent
+## Åtgärder
 
 Preventing injection requires keeping data separate from commands and queries.
 
@@ -25,7 +25,7 @@ Preventing injection requires keeping data separate from commands and queries.
 * For any residual dynamic queries, escape special characters using the specific escape syntax for that interpreter. **Note**: SQL structure such as table names, column names, and so on cannot be escaped, and thus user-supplied structure names are dangerous. This is a common issue in report-writing software.
 * Use LIMIT and other SQL controls within queries to prevent mass disclosure of records in case of SQL injection.
 
-## Example Attack Scenarios
+## Exempel
 
 **Scenario #1**: An application uses untrusted data in the construction of the following vulnerable SQL call:
 
@@ -41,7 +41,7 @@ In both cases, the attacker modifies the ‘id’ parameter value in their brows
 
 This changes the meaning of both queries to return all the records from the accounts table. More dangerous attacks could modify or delete data, or even invoke stored procedures.
 
-## References
+## Referenser
 
 ### OWASP
 
@@ -54,7 +54,7 @@ This changes the meaning of both queries to return all the records from the acco
 * [OWASP Cheat Sheet: Query Parameterization](https://www.owasp.org/index.php/Query_Parameterization_Cheat_Sheet)
 * [OWASP Automated Threats to Web Applications – OAT-014](https://www.owasp.org/index.php/OWASP_Automated_Threats_to_Web_Applications)
 
-### External
+### Externa
 
 * [CWE-77: Command Injection](https://cwe.mitre.org/data/definitions/77.html)
 * [CWE-89: SQL Injection](https://cwe.mitre.org/data/definitions/89.html)

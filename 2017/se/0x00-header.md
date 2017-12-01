@@ -1,6 +1,6 @@
 ![OWASP LOGO](images/OWASP_logo.png)
 
-## OWASP Top 10 2017
+## OWASP Topp 10 2017
 
 The Ten Most Critical Web Application Security Risks
 

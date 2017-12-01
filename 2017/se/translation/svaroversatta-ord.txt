@@ -22,3 +22,7 @@ credential
 timeout
 
 single-sign on
+
+community
+
+chapter

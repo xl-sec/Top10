@@ -1,0 +1,50 @@
+Topp 10 Översättning 2017
+A1:2017 - (Godtycklig?) Injektion
+
+A2:2017 - Trasig autentisering
+A2:2017 - Felaktig autentiseringshantering
+A2:2017 - Sårbar autentiseringshantering
+
+A3:2017 - Exponering av känslig information
+A3:2017 - Läckage av känslig information
+A3:2017 - Oavsiktligt informationsläckage
+
+A4:2017 - Externa XML-entiteter
+
+A5:2017 - Felaktig åtkomstkontroll
+A5:2017 - Bristande åtkomstkontroll
+A5:2017 - Sårbar åtkomstkontroll
+
+A6:2017 - Felaktig säkerhetskonfiguration
+
+A7:2017 - Webbinjektionskod
+A7:2017 - Injektion av script i webbkod
+
+A8:2017 - Osäker objektkonvertering
+
+A9:2017 - Komponenter med kända sårbarheter
+
+A10:2017 - Otillräcklig aktivitetsloggning och -övervakning
+
+
+Topp 10 Översättning 2013
+A1:2013 - … (som A1:2017) …
+
+A2:2013 - … (som A2:2017) … + och sessionshantering
+
+A3:2013 - … (som A7:2017) … 
+
+A4:2013 - Osäker direktreferens till objekt
+
+A5:2013 - Felaktig säkerhetskonfiguration
+
+A6:2013 - ... (som A3:2017) …
+
+A7:2013 - Otillräcklig åtkomstkontroll på funktionsnivå
+A7:2013 - Otillräcklig granulär åtkomstkontroll
+
+A8:2013 - Förfalskning av webbanrop … hm :)
+
+A9:2013 - Användande av komponenter med kända sårbarheter
+
+A10:2013 - Ej validerad/betrodd omdirigering och/eller vidarebefordring (av webbanrop?)

@@ -1,20 +1,21 @@
-# Release
+# Utgåva
 
-## Important Notice
+## Viktigt meddelande
 
-### Request for Comments
+### Begäran om kommentarer
 
-This is the text version of the OWASP Topp 10, and although it is useful for translators and those interested in a text version, it's not the official release, which is the PowerPoint / PDF version. 
+Detta är textversionen av OWASP Topp 10 - 2017 och fastän denna är användbar för översättare och de som är intresserade av en textversion är denna inte den officiella utgåvan. Den officiella utgåvan är utgiven som en PDF genererad från en PowerPoint.
 
-At this stage, we are asking for
+I detta skede efterfrågar vi
 
-* Translations - we have some teams working already, but do reach out to us if you can help
+* Översättning - vi har ett antal grupper som jobbar på översättningar, men hör av er ifall ni kan hjälpa till
 
-We strongly urge for any corrections or issues to be logged at GitHub:
+Vi uppmanar starkt att eventuella korrigeringar eller frågor hanteras på GitHub.
 
-* [https://github.com/OWASP/Top10/issues](https://github.com/OWASP/Top10/issues)
+* Officiella arkivet: [https://github.com/OWASP/Top10/issues](https://github.com/OWASP/Top10/issues)
+* Arkivet för den svenska översättningen: [https://github.com/xl-sec/Top10/issues](https://github.com/xl-sec/Top10/issues)
 
-Through public transparency, we provide traceability and ensure that all voices are heard during this final month before publication.
+Genom allmän öppenhet så tillhandahåller vi spårbarhet och ser till att alla röster blir hörda under den sista månaden innan publicering.
 
 * Andrew van der Stock
 * Brian Glas

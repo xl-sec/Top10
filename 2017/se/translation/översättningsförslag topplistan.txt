@@ -1,5 +1,6 @@
 Topp 10 Översättning 2017
-A1:2017 - (Godtycklig?) Injektion
+A1:2017 - Injektion
+A1:2017 - Godtycklig injektion
 
 A2:2017 - Trasig autentisering
 A2:2017 - Felaktig autentiseringshantering
@@ -28,22 +29,22 @@ A10:2017 - Otillräcklig aktivitetsloggning och -övervakning
 
 
 Topp 10 Översättning 2013
-A1:2013 - … (som A1:2017) …
+A1:2013 - (som A1:2017)
 
-A2:2013 - … (som A2:2017) … + och sessionshantering
+A2:2013 - (som A2:2017) + och sessionshantering
 
-A3:2013 - … (som A7:2017) … 
+A3:2013 - (som A7:2017)
 
 A4:2013 - Osäker direktreferens till objekt
 
 A5:2013 - Felaktig säkerhetskonfiguration
 
-A6:2013 - ... (som A3:2017) …
+A6:2013 - (som A3:2017)
 
 A7:2013 - Otillräcklig åtkomstkontroll på funktionsnivå
 A7:2013 - Otillräcklig granulär åtkomstkontroll
 
-A8:2013 - Förfalskning av webbanrop … hm :)
+A8:2013 - Förfalskning av webbanrop
 
 A9:2013 - Användande av komponenter med kända sårbarheter
 

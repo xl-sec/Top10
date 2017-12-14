@@ -1,15 +1,20 @@
 Ordlista för att vara konsekvent med översättningen
 
+http://www.datatermgruppen.se/ordlista.html
+https://it-ord.idg.se/
+
 access control	åtkomstkontroll
 accurate		säker
 affected		berörda
 allow			möjliggör
 almost			nästintill
+API             applikationsgränssnitt
 application		applikation
 arbitrary		godtycklig
 attacker		attackerare
 available		tillgänglig
 browser			webbläsare
+chapter         förening
 complete		total / fullgod
 consider		överväg
 construction	uppbyggnaden
@@ -37,8 +42,10 @@ interpreter		tolk (interpreterare?)
 invoke			anropa
 issue			problem??
 legacy code		gammal kod (?)
+library         komponent (?)
 mail			e-post
 malicious		skadlig
+maintain        förvalta
 management		hantering
 more dangerous	ännu farligare
 occur			uppstår
@@ -51,6 +58,7 @@ processes		hanterar
 provide			tillhandahålla
 properly		korrekt
 redirect		vidarebefodra
+repository      arkiv
 require			kräver
 requirement		krav
 result			resultera

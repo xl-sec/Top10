@@ -23,6 +23,6 @@ timeout
 
 single-sign on
 
-community
+community   rörelse(?)
 
-chapter
+chapter     förening

@@ -1,38 +1,38 @@
-# O About OWASP
+# O Om OWASP
 
-## About OWASP
+## Om OWASP
 
-The Open Web Application Security Project (OWASP) is an open community dedicated to enabling organizations to develop, purchase, and maintain applications and APIs that can be trusted.
+OWASP, The Open Web Application Security Project, är ett öppet projekt som drivs av volontärer. Syftet är att underlätta för organisationer att enklare köpa, utveckla och förvalta säkra applikationer och applikationsgränssnitt.
 
-At OWASP, you'll find free and open:
+Hos OWASP hittar du gratis och öppna:
 
-* Application security tools and standards.
-* Complete books on application security testing, secure code development, and secure code review.
-* Presentations and [videos](https://www.youtube.com/user/OWASPGLOBAL).
-* [Cheat sheets](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) on many common topics.
-* Standard security controls and libraries.
-* [Local chapters worldwide](https://www.owasp.org/index.php/OWASP_Chapter).
-* Cutting edge research.
-* Extensive [conferences worldwide](https://www.owasp.org/index.php/Category:OWASP_AppSec_Conference).
-* [Mailing lists](https://lists.owasp.org/mailman/listinfo).
+* Verktyg och standarder för applikationssäkerhet.
+* Fullständiga böcker om säker mjukvaruutveckling, säkerhetstestning och -granskning av applikationer.
+* Presentationer och [filmklipp](https://www.youtube.com/user/OWASPGLOBAL).
+* [Lathundar](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) för många vanligt förekommande ämnen topics.
+* Standarder för säkerhetskontroller och komponenter.
+* [Lokala föreningar runtom i världen](https://www.owasp.org/index.php/OWASP_Chapter).
+* Den allra senaste forskningen.
+* Omfattande [konferenser](https://www.owasp.org/index.php/Category:OWASP_AppSec_Conference) runtom i världen.
+* [E-postlistor](https://lists.owasp.org/mailman/listinfo).
 
-Learn more at: [https://www.owasp.org](https://www.owasp.org).
+Läs mer på: [https://www.owasp.org](https://www.owasp.org).
 
-All OWASP tools, documents, videos, presentations, and chapters are free and open to anyone interested in improving application security.
+Alla OWASP verktyg, dokument, filmklipp, presentationer och föreningar är gratis och öppna för alla som är interesserade av att förbättra applikationssäkerhet.
 
-We advocate approaching application security as a people, process, and technology problem, because the most effective approaches to application security require improvements in these areas.
+Vi förespråkar applikationssäkerhet som en sammanförande interaktion mellan människa, process och teknologi. Detta eftersom de mest effektiva angreppssätten för applikationssäkerhet kräver förbättringar inom dessa områden.
 
-OWASP is a new kind of organization. Our freedom from commercial pressures allows us to provide unbiased, practical, and cost-effective information about application security.
+OWASP är en ny sorts av organisation. Vår frihet från kommersiella påtryckningar tillåter oss att tillhandahålla opartisk, praktisk och kostnadseffektiv information om applikationssäkerhet.
 
-OWASP is not affiliated with any technology company, although we support the informed use of commercial security technology. OWASP produces many types of materials in a collaborative, transparent, and open way.
+OWASP har inga kopplingar till något teknikföretag, men vi stöder ett ??påläst?? användande av kommersiell säkerhetsteknologi. OWASP producerar många olika typer av material genom ett öppet och transparent samarbete.
 
-The OWASP Foundation is the non-profit entity that ensures the project's long-term success. Almost everyone associated with OWASP is a volunteer, including the OWASP board, chapter leaders, project leaders, and project members. We support innovative security research with grants and infrastructure.
+OWASP ??Foundation?? är den ideella organisation som säkerställer projektets långsiktiga framgång. Så gott som alla involverade i OWASP är volontärer, inklusive OWASP:s ledning, ??ordföranden??, projektledare och projektmedlemmar. Vi stöder innovativ säkerhetsforskning med bidrag och infrastruktur.
 
-Come join us!
+Gå gärna med du också!
 
-## Copyright and License
+## Upphovsrätt och licens
 
-![license](images/license.png)
+![licens](images/license.png)
 
-Copyright © 2003-2017 The OWASP Foundation. This document is released under the Creative Commons Attribution Share-Alike 4.0 license. For any reuse or distribution, you must make it clear to others the license terms of this work.
+Copyright © 2003-2017 The OWASP Foundation. Detta dokument är publiserat under licensen Creative Commons Attribution Share-Alike 4.0 Internatinal. För eventuell återanvändning eller distribution måste du göra det klart för  licensen för detta verk.
 

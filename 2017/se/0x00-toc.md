@@ -1,3 +1,3 @@
-# TOC
+# Innehållsförteckning
 
-< replace me with a toc >
+< ersätt mig med en innehållsförteckning >

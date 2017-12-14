@@ -13,10 +13,10 @@ Sometimes these paths are trivial to find and exploit, and sometimes they are ex
 The [OWASP Topp 10](https://www.owasp.org/index.php/Top10) focuses on identifying the most serious web application security risks for a broad array of organizations. For each of these risks, we provide generic information about likelihood and technical impact using the following simple ratings scheme, which is based on the OWASP Risk Rating Methodology.  
 
 | Threat Agents | Exploitability | Weakness Prevalence | Weakness Detectability | Technical Impacts | Business Impacts |
-| -- | -- | -- | -- | -- | -- |
-| Appli-   | Easy 3 | Widespread 3 | Easy 3 | Severe 3 | Business     |
-| cation   | Average 2 | Common 2 | Average 2 | Moderate 2 | Specific |
-| Specific | Difficult 1 | Uncommon 1 | Difficult 1 | Minor 1 |       |
+| ------------- | -------------- | ------------------- | ---------------------- | ----------------- | ---------------- |
+| Appli-        | Easy 3         | Widespread 3        | Easy 3                 | Severe 3          | Business         |
+| cation        | Average 2      | Common 2            | Average 2              | Moderate 2        | Specific         |
+| Specific      | Difficult 1    | Uncommon 1          | Difficult 1            | Minor 1           |                  |
 
 In this edition, we have updated the risk rating system to assist in calculating the likelihood and impact of any given risk. For more details, please see [Note About Risks](0xc0-note-about-risks.md). 
 

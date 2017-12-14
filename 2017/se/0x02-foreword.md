@@ -12,7 +12,7 @@ Vi har sammanfattat en del "nästa steg" att gå vidare med efter OWASP Topp 10
 
 Långsiktigt uppmuntras alla mjukvaruutvecklande projektgrupper och organisationer att skapa ett applikationssäkerhetsprogram kompatibelt med organisationens kultur och teknologi. Den här typen av program finns i alla former och storlekar. Utnyttja organisationens befintliga styrkor för att mäta och förbättra applikationssäkerhetsprogrammet med hjälp av Software Assurance Maturity Model.
 
-Vi hoppas att OWASP Topp 10 är användbar för allas ??ansträngningar?? inom applikationssäkerhet. Tveka inte att kontakta OWASP om du har frågor, konstruktiv kritik eller andra idéer på vår plats på Github:
+Vi hoppas att OWASP Topp 10 är användbar för allas ??ansträngningar?? inom applikationssäkerhet. Tveka inte att kontakta OWASP om du har frågor, konstruktiv kritik eller andra idéer på vår plats på GitHub:
 
 * Officiella arkivet: [https://github.com/OWASP/Top10/issues](https://github.com/OWASP/Top10/issues)
 * Arkivet för den svenska översättningen: [https://github.com/xl-sec/Top10/issues](https://github.com/xl-sec/Top10/issues)
@@ -33,7 +33,7 @@ Svenska översättare
 * Axel Bengtsson 
 * Samuel Adolfsson
 
-## Erkännanden
+## Projektets sponsorer
 
 Tack till [Autodesk](https://www.autodesk.com) som har sponsrat OWASP Topp 10 - 2017
 

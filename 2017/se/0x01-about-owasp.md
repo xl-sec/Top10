@@ -9,7 +9,7 @@ Hos OWASP hittar du gratis och öppna:
 * Verktyg och standarder för applikationssäkerhet.
 * Fullständiga böcker om säker mjukvaruutveckling, säkerhetstestning och -granskning av applikationer.
 * Presentationer och [filmklipp](https://www.youtube.com/user/OWASPGLOBAL).
-* [Lathundar](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) för många vanligt förekommande ämnen topics.
+* [Lathundar](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series) för många vanligt förekommande ämnen.
 * Standarder för säkerhetskontroller och komponenter.
 * [Lokala föreningar runtom i världen](https://www.owasp.org/index.php/OWASP_Chapter).
 * Den allra senaste forskningen.
@@ -34,5 +34,5 @@ Gå gärna med du också!
 
 ![licens](images/license.png)
 
-Copyright © 2003-2017 The OWASP Foundation. Detta dokument är publiserat under licensen Creative Commons Attribution Share-Alike 4.0 Internatinal. För eventuell återanvändning eller distribution måste du göra det klart för  licensen för detta verk.
+Copyright © 2003-2017 The OWASP Foundation. Detta dokument är publiserat under licensen Creative Commons Attribution Share-Alike 4.0 International. För eventuell återanvändning eller distribution måste du göra licensen klart för detta verk.
 

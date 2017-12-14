@@ -74,6 +74,7 @@ target			mål
 targeted		måltavlor
 token			biljett
 treated			hanteras
+trust           förtroende / tillit / tilltro / betrodd / lita ?
 under the hood	under huven (?)
 unique			unik (/ olik?)
 untrusted		opålitlig

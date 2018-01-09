@@ -1,28 +1,28 @@
-# Risk - Application Security Risks
+# Risk - Säkerhetsrisker i applikationer
 
-## What Are Application Security Risks?
+## Vad är säkerhetsrisker i applikationer?
 
-Attackers can potentially use many different paths through your application to do harm to your business or organization. Each of these paths represents a risk that may, or may not, be serious enough to warrant attention.
+En attackerare kan potentiellt använda många olika vägar i din applikation för att skada din verksamhet eller organisation. Varje enskild väg representerar en risk som kanske, eller kanske inte, är tillräckligt allvarlig för att uppmärksammas.
 
-![App Security Risks](images/0x10-risk-1.png)
+![Säkerhetsrisker i applikationer](images/0x10-risk-1.png)
 
-Sometimes these paths are trivial to find and exploit, and sometimes they are extremely difficult. Similarly, the harm that is caused may be of no consequence, or it may put you out of business. To determine the risk to your organization, you can evaluate the likelihood associated with each threat agent, attack vector, and security weakness and combine it with an estimate of the technical and business impact to your organization. Together, these factors determine your overall risk.
+Ibland är vägarna lätta att hitta och utnyttja, i andra fall kan det vara extremt svårt. På liknande sätt kan skadan som orsakas kanske inte har någon som helst konsekvens eller i värsta fall resultera i konkurs. För att kunna avgöra riskerna för din organisation krävs en utvärdering av sannolikheten för att något ska inträffa i varje del - hotbild, attackytor och ??svagheter?? i kombination med en uppskattning av teknisk inverkan och verksamhetspåverkan. Tillsammans avgör dessa faktorer den övergripande risken.
 
-## What's My Risk
+## Var är min risk?
 
-The [OWASP Topp 10](https://www.owasp.org/index.php/Top10) focuses on identifying the most serious web application security risks for a broad array of organizations. For each of these risks, we provide generic information about likelihood and technical impact using the following simple ratings scheme, which is based on the OWASP Risk Rating Methodology.  
+[OWASP Topp 10](https://www.owasp.org/index.php/Top10) fokuserar på att identifiera de mest kritiska säkerhetsriskerna i webbapplikationer för en rad olika typer av organisationer. För varje enskild risk tillhandahålls allmän information om sannolikheten och teknisk inverkan genom att använda följande simpla betygssystem baserat på [OWASP Risk Rating Methodology](https://www.owasp.org/index.php/OWASP_Risk_Rating_Methodology).
 
-| Threat Agents | Exploitability | Weakness Prevalence | Weakness Detectability | Technical Impacts | Business Impacts |
-| ------------- | -------------- | ------------------- | ---------------------- | ----------------- | ---------------- |
-| Appli-        | Easy 3         | Widespread 3        | Easy 3                 | Severe 3          | Business         |
-| cation        | Average 2      | Common 2            | Average 2              | Moderate 2        | Specific         |
-| Specific      | Difficult 1    | Uncommon 1          | Difficult 1            | Minor 1           |                  |
+| Hotbild       | Exploaterbarhet | ??Förekomst av svagheten?? | ??Upptäckbarhet av svagheten?? | Teknisk ??inverkan?? | ??Inverkan på verksamheten?? |
+| ------------- | --------------- | -------------------------- | ------------------------------ | -------------------- | ---------------------------- |
+| Applikations- | Lätt 3          | Välspridd 3                | Lätt 3                         | Allvarlig 3          | Verksamhets-                 |
+| specifik      | Medel 2         | Vanlig 2                   | Medel 2                        | Måttlig 2            | specifik                     |
+|               | Svårt 1         | Ovanlig 1                  | Svårt 1                        | Lindrig 1            |                              |
 
-In this edition, we have updated the risk rating system to assist in calculating the likelihood and impact of any given risk. For more details, please see [Note About Risks](0xc0-note-about-risks.md). 
+I denna utgåva har risksystemet uppdaterats för att underlätta framtagandet av sannolikheten och ??påverkan?? för varje given risk. För en mer detaljerad beskrivning se [Notis om risk](0xc0-note-about-risks.md).
 
-Each organization is unique, and so are the threat actors for that organization, their goals, and the impact of any breach. If a public interest organization uses a content management system (CMS) for public information and a health system uses that same exact CMS for sensitive health records, the threat actors and business impacts can be very different for the same software. It is critical to understand the risk to your organization based on applicable threat agents and business impacts.
+Varje organisation är unik och så är även hotbilderna mot dem; hotbildernas mål och och ??inverkan?? av ev. intrång. Om t.ex. en organisation använder ett CMS (Content Management System) för publik information medan en annan använder precis samma CMS för att hantera känslig information som t.ex sjukvårdsjournaler kan hotbilderna och inverkan på verksamheten se väldigt olika ut trots att samma mjukvara används. En förståelse om hotbilderna och dess inverkan är kritisk för en organisation.
 
-Where possible, the names of the risks in the Topp 10 are aligned with [Common Weakness Enumeration](https://cwe.mitre.org/) (CWE) weaknesses to promote generally accepted naming conventions and to reduce confusion.
+I den engelska varianten har namnen i Topp 10, där det varit möjligt, upprättats i enlighet med CWE ([Common Weakness Enumeration](https://cwe.mitre.org/)) för att bidra till en standard och på så sätt undvika missförstånd och förvirring. I den svenska varianten har namnen i Topp 10 tagits fram genom publik omröstning.
 
 ## Referenser
 

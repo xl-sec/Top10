@@ -1,4 +1,4 @@
-# +R Note About Risks
+# +R Notis om risk
 
 ## It's About the Risks that Weaknesses Represent
 
